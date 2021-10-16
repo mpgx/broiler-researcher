@@ -1,0 +1,11 @@
+dataset/
+dataset_result/
+softwares
+.ipynb_checkpoints/
+__pycache__/
+__pycache__/*
+.vscode/
+*.pyc
+*.tif
+*.png
+*.jpg
